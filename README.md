@@ -10,4 +10,4 @@ Endpoints (same for /books and /customers):
 - DELETE /books/{id}   -> 204 / 404
 
 
-- All of the customer information is FAKE and made up.
+NOTE: All of the customer information is FAKE and made up.
