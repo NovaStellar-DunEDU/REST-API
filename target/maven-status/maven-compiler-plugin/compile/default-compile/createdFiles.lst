@@ -1,0 +1,5 @@
+com\example\store\controller\CustomerController.class
+com\example\store\controller\BookController.class
+com\example\store\StoreApplication.class
+com\example\store\model\Customer.class
+com\example\store\model\Book.class
