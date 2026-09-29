@@ -11,3 +11,4 @@ Endpoints (same for /books and /customers):
 
 
 NOTE: All of the customer information is FAKE and made up.
+<img width="896" height="825" alt="image" src="https://github.com/user-attachments/assets/45cde7ef-a5d1-42fd-b92c-eee42259d6a3" />
