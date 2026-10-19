@@ -1,4 +1,4 @@
-# Store API (Spring Boot)
+# Book Store API (Spring Boot)
 
 Run: `mvn spring-boot:run`  (Java 17+)
 
