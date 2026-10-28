@@ -1,6 +1,6 @@
 # Book Store API (Spring Boot)
 
-Run: `mvn spring-boot:run`  (Java 17+)
+Run: `docker compose up --build -d`  (Java 17+)
 
 Endpoints (same for /books and /customers):
 - GET    /books        -> 200
